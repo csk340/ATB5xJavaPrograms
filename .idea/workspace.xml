@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZwwUtjmQajGsYu70z13JuSVaDu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Array1D2D.executor": "Run",
+    "Application.Array1D2DSecond.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.ArrayValuesVsAddress.executor": "Run",
+    "Application.CompoundAssignment.executor": "Run",
+    "Application.Concatination.executor": "Run",
+    "Application.Concatination2BODMAS.executor": "Run",
+    "Application.ContinueKeyword.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.EqualVsEquals.executor": "Run",
+    "Application.FactorialProgram.executor": "Run",
+    "Application.Final.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.ForLoopBasic.executor": "Run",
+    "Application.ForLoopBasic2.executor": "Run",
+    "Application.FunctionReturnType2.executor": "Run",
+    "Application.FunctionReturnTypeString.executor": "Run",
+    "Application.FunctionReturnTypeWithScanner.executor": "Run",
+    "Application.FunctionWithReturnType.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.IfLoop.executor": "Run",
+    "Application.IncrementOperator.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
+    "Application.Interesting.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.MathFun.executor": "Run",
+    "Application.MathFunction.executor": "Run",
+    "Application.MathWithDifferentDatatype.executor": "Run",
+    "Application.Null.executor": "Run",
+    "Application.PInstanceOf.executor": "Run",
+    "Application.PrintOddNumbers.executor": "Run",
+    "Application.PrintStatement.executor": "Run",
+    "Application.PrintValuesInArray.executor": "Run",
+    "Application.RangeBasics.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.SCPoolvsObjectArea.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.SlashCommand.executor": "Run",
+    "Application.SubjectMarks.executor": "Run",
+    "Application.SubjectMarks2.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.SwitchCondition.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TernaryWithThreeValues.executor": "Run",
+    "Application.TriangleType.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="allAboutJavaBasics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FunctionReturnType2">
+    <configuration name="FunctionReturnType2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnType2" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec_30th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionReturnTypeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnTypeString" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec_30th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionReturnTypeWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnTypeWithScanner" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec_30th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionWithReturnType" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec_30th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.Interesting" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec_30th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionReturnType2" />
+        <item itemvalue="Application.FunctionReturnTypeWithScanner" />
+        <item itemvalue="Application.FunctionReturnTypeString" />
+        <item itemvalue="Application.Interesting" />
+        <item itemvalue="Application.FunctionWithReturnType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-8336523bb0d9-d3b62f98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="" />
+      <created>1703346471683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703346471683</updated>
+    </task>
+    <servers />
+  </component>
+</project>
