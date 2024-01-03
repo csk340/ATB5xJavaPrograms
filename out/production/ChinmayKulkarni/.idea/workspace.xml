@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="" />
+    <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
+      <change afterPath="$PROJECT_DIR$/PracticeMakesManPerfect/PrimeNumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeMakesManPerfect/SimpleInterestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -24,67 +34,86 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ZwwUtjmQajGsYu70z13JuSVaDu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CompoundAssignment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatination2BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContinueKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualVsEquals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopBasic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncrementOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathFun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathWithDifferentDatatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Null.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PInstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintValuesInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RangeBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SCPoolvsObjectArea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SlashCommand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryWithThreeValues.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Array1D2D.executor": "Run",
+    "Application.Array1D2DSecond.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.ArrayValuesVsAddress.executor": "Run",
+    "Application.CompoundAssignment.executor": "Run",
+    "Application.Concatination.executor": "Run",
+    "Application.Concatination2BODMAS.executor": "Run",
+    "Application.ContinueKeyword.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.EqualVsEquals.executor": "Run",
+    "Application.FactorialProgram.executor": "Run",
+    "Application.Final.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.ForLoopBasic.executor": "Run",
+    "Application.ForLoopBasic2.executor": "Run",
+    "Application.FunctionReturnType2.executor": "Run",
+    "Application.FunctionReturnTypeString.executor": "Run",
+    "Application.FunctionReturnTypeWithScanner.executor": "Run",
+    "Application.FunctionWithReturnType.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.IfLoop.executor": "Run",
+    "Application.IncrementOperator.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
+    "Application.Interesting.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.MathFun.executor": "Run",
+    "Application.MathFunction.executor": "Run",
+    "Application.MathWithDifferentDatatype.executor": "Run",
+    "Application.Null.executor": "Run",
+    "Application.PInstanceOf.executor": "Run",
+    "Application.PrintOddNumbers.executor": "Run",
+    "Application.PrintStatement.executor": "Run",
+    "Application.PrintValuesInArray.executor": "Run",
+    "Application.RangeBasics.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.SCPoolvsObjectArea.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.SimpleInterestCalculator.executor": "Run",
+    "Application.SlashCommand.executor": "Run",
+    "Application.SubjectMarks.executor": "Run",
+    "Application.SubjectMarks2.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.SwitchCondition.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TernaryWithThreeValues.executor": "Run",
+    "Application.TriangleType.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactorialProgram">
-    <configuration name="ContinueKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec_23rd.ContinueKeyword" />
+  <component name="RunManager" selected="Application.SimpleInterestCalculator">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.FizzBuzz" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dec_23rd.*" />
+          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec_23rd.DoWhileLoop" />
+    <configuration name="FunctionReturnType2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnType2" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dec_23rd.*" />
+          <option name="PATTERN" value="Dec_30th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestForPractice.FactorialProgram" />
+    <configuration name="FunctionReturnTypeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnTypeString" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestForPractice.*" />
+          <option name="PATTERN" value="Dec_30th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestForPractice.PrintOddNumbers" />
+    <configuration name="FunctionReturnTypeWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnTypeWithScanner" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestForPractice.*" />
+          <option name="PATTERN" value="Dec_30th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec_23rd.WhileLoop" />
+    <configuration name="SimpleInterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.SimpleInterestCalculator" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dec_23rd.*" />
+          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactorialProgram" />
-        <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.ContinueKeyword" />
-        <item itemvalue="Application.PrintOddNumbers" />
+        <item itemvalue="Application.SimpleInterestCalculator" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.FunctionReturnType2" />
+        <item itemvalue="Application.FunctionReturnTypeWithScanner" />
+        <item itemvalue="Application.FunctionReturnTypeString" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +199,27 @@
       <option name="presentableId" value="Default" />
       <updated>1703346471683</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1704120847617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704120847617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1704123399388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704123399388</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit and push is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit and push is done" />
   </component>
 </project>
