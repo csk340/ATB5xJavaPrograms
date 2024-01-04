@@ -11,11 +11,11 @@ public class CountVowelsAndConsonants {
         String word = sc.next();
         for (int i=0; i<=word.length()-1;i++)
         {
-
-            if((word.charAt(i) == 'a' || word.charAt(i) == 'e' || word.charAt(i) == 'i' || word.charAt(i) == 'o'
-            || word.charAt(i) == 'u') ||
-                    (word.charAt(i) == 'A' || word.charAt(i) == 'E' || word.charAt(i) == 'I' || word.charAt(i) == 'O'
-                            || word.charAt(i) == 'U'))
+            char ch = word.charAt(i);
+            if((ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o'
+            || ch == 'u') ||
+                    (ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O'
+                            || ch == 'U'))
             {
                 vowels=vowels+1;
             }
