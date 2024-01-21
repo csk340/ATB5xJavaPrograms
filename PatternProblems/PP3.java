@@ -23,3 +23,8 @@ public class PP3 {
 
     }
 }
+//Static
+//Inner and Outer class
+//Wrapper Class
+//Exceptions
+//Collections

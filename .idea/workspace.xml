@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done" />
+    <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
+      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/DConsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/DemoConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/FunctionsOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/HAvsSCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/StringBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/StringImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeMakesManPerfect/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeMakesManPerfect/PalindromeWithoutSBDorSBF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternProblems/PP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/PatternProblems/PP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeMakesManPerfect/PrimeNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeMakesManPerfect/PrimeNumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/PracticeMakesManPerfect/PrimeNumberCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/PracticeMakesManPerfect/PrimeNumberCheck.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +64,9 @@
     "Application.Concatination2BODMAS.executor": "Run",
     "Application.ContinueKeyword.executor": "Run",
     "Application.CountVowelsAndConsonants.executor": "Run",
+    "Application.DConsRunner.executor": "Run",
     "Application.DataTypes.executor": "Run",
+    "Application.DemoConstructor.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
     "Application.EqualVsEquals.executor": "Run",
     "Application.FactorialProgram.executor": "Run",
@@ -61,7 +78,9 @@
     "Application.FunctionReturnTypeString.executor": "Run",
     "Application.FunctionReturnTypeWithScanner.executor": "Run",
     "Application.FunctionWithReturnType.executor": "Run",
+    "Application.FunctionsOfString.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
+    "Application.HAvsSCP.executor": "Run",
     "Application.IfLoop.executor": "Run",
     "Application.IncrementOperator.executor": "Run",
     "Application.InstanceOf.executor": "Run",
@@ -75,7 +94,10 @@
     "Application.PInstanceOf.executor": "Run",
     "Application.PP2.executor": "Run",
     "Application.PP3.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeWithoutSBDorSBF.executor": "Run",
     "Application.PatternProblems.executor": "Debug",
+    "Application.PrimeNumberCheck.executor": "Run",
     "Application.PrintOddNumbers.executor": "Run",
     "Application.PrintStatement.executor": "Run",
     "Application.PrintValuesInArray.executor": "Run",
@@ -85,6 +107,9 @@
     "Application.ScannerClass.executor": "Run",
     "Application.SimpleInterestCalculator.executor": "Run",
     "Application.SlashCommand.executor": "Run",
+    "Application.StringBufferTest.executor": "Run",
+    "Application.StringBuilderTest.executor": "Run",
+    "Application.StringImmutable.executor": "Run",
     "Application.SubjectMarks.executor": "Run",
     "Application.SubjectMarks2.executor": "Run",
     "Application.SumOfAllDigitsOfNumber.executor": "Run",
@@ -110,9 +135,48 @@
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountVowelsAndConsonants">
-    <configuration name="CountVowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.CountVowelsAndConsonants" />
+  <component name="RunManager" selected="Application.PalindromeWithoutSBDorSBF">
+    <configuration name="DConsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_6th.Constructor.DConsRunner" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_6th.Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_6th.Constructor.DemoConstructor" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_6th.Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionReturnTypeWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnTypeWithScanner" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec_30th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeWithoutSBDorSBF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.PalindromeWithoutSBDorSBF" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
@@ -124,41 +188,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternProblems.PP2" />
-      <module name="ChinmayKulkarni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternProblems.PP3" />
-      <module name="ChinmayKulkarni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PatternProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternProblems.PatternProblems" />
-      <module name="ChinmayKulkarni" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfAllDigitsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.SumOfAllDigitsOfNumber" />
+    <configuration name="PrimeNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.PrimeNumberCheck" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
@@ -172,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountVowelsAndConsonants" />
-        <item itemvalue="Application.PP3" />
-        <item itemvalue="Application.PP2" />
-        <item itemvalue="Application.PatternProblems" />
-        <item itemvalue="Application.SumOfAllDigitsOfNumber" />
+        <item itemvalue="Application.PalindromeWithoutSBDorSBF" />
+        <item itemvalue="Application.PrimeNumberCheck" />
+        <item itemvalue="Application.FunctionReturnTypeWithScanner" />
+        <item itemvalue="Application.DConsRunner" />
+        <item itemvalue="Application.DemoConstructor" />
       </list>
     </recent_temporary>
   </component>

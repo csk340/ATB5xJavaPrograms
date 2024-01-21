@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
-      <change afterPath="$PROJECT_DIR$/PracticeMakesManPerfect/SumOfAllDigitsOfNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternProblems/PP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/PatternProblems/PP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,9 @@
     &quot;Application.MathWithDifferentDatatype.executor&quot;: &quot;Run&quot;,
     &quot;Application.Null.executor&quot;: &quot;Run&quot;,
     &quot;Application.PInstanceOf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PP2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PP3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternProblems.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PrintOddNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintStatement.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintValuesInArray.executor&quot;: &quot;Run&quot;,
@@ -99,6 +103,7 @@
     &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
@@ -109,7 +114,7 @@
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfAllDigitsOfNumber">
+  <component name="RunManager" selected="Application.StringImmutable">
     <configuration name="CountVowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.CountVowelsAndConsonants" />
       <module name="ChinmayKulkarni" />
@@ -123,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.FizzBuzz" />
+    <configuration name="FunctionWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionWithReturnType" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="PATTERN" value="Dec_30th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.SimpleInterestCalculator" />
+    <configuration name="PP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternProblems.PP2" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="PATTERN" value="PatternProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfAllDigitsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.SumOfAllDigitsOfNumber" />
+    <configuration name="PP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternProblems.PP3" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="PATTERN" value="PatternProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureCoverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.TemperatureCoverter" />
+    <configuration name="StringImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_6th.StringImmutable" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="PATTERN" value="Jan_6th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfAllDigitsOfNumber" />
-        <item itemvalue="Application.TemperatureCoverter" />
+        <item itemvalue="Application.StringImmutable" />
+        <item itemvalue="Application.FunctionWithReturnType" />
         <item itemvalue="Application.CountVowelsAndConsonants" />
-        <item itemvalue="Application.SimpleInterestCalculator" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.PP3" />
+        <item itemvalue="Application.PP2" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704284837773</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1704382055262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704382055262</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
