@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
+      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/ConsValueUpdating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/Conseg1RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/ConstructorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternProblems/PP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/PatternProblems/PP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_6th/FunctionsOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_6th/FunctionsOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/Jan_6th/FunctionsOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/Jan_6th/FunctionsOfString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,86 +47,101 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1D2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1D2DSecond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayValuesVsAddress.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompoundAssignment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatination2BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContinueKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountVowelsAndConsonants.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualVsEquals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopBasic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionReturnType2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionReturnTypeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionReturnTypeWithScanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionWithReturnType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncrementOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interesting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathFun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathWithDifferentDatatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Null.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PInstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PP2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PP3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternProblems.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrintOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintValuesInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RangeBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SCPoolvsObjectArea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInterestCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SlashCommand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubjectMarks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubjectMarks2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfAllDigitsOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemperatureCoverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryWithThreeValues.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Array1D2D.executor": "Run",
+    "Application.Array1D2DSecond.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.ArrayValuesVsAddress.executor": "Run",
+    "Application.CompoundAssignment.executor": "Run",
+    "Application.Concatination.executor": "Run",
+    "Application.Concatination2BODMAS.executor": "Run",
+    "Application.Conseg1RunnerClass.executor": "Run",
+    "Application.ContinueKeyword.executor": "Run",
+    "Application.CountVowelsAndConsonants.executor": "Run",
+    "Application.DConsRunner.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.DemoConstructor.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.EqualVsEquals.executor": "Run",
+    "Application.FactorialProgram.executor": "Run",
+    "Application.Final.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.ForLoopBasic.executor": "Run",
+    "Application.ForLoopBasic2.executor": "Run",
+    "Application.FunctionReturnType2.executor": "Run",
+    "Application.FunctionReturnTypeString.executor": "Run",
+    "Application.FunctionReturnTypeWithScanner.executor": "Run",
+    "Application.FunctionWithReturnType.executor": "Run",
+    "Application.FunctionsOfString.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.HAvsSCP.executor": "Run",
+    "Application.IfLoop.executor": "Run",
+    "Application.IncrementOperator.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
+    "Application.Interesting.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.MathFun.executor": "Run",
+    "Application.MathFunction.executor": "Run",
+    "Application.MathWithDifferentDatatype.executor": "Run",
+    "Application.Null.executor": "Run",
+    "Application.PInstanceOf.executor": "Run",
+    "Application.PP2.executor": "Run",
+    "Application.PP3.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeWithoutSBDorSBF.executor": "Run",
+    "Application.PatternProblems.executor": "Debug",
+    "Application.PrimeNumberCheck.executor": "Run",
+    "Application.PrintOddNumbers.executor": "Run",
+    "Application.PrintStatement.executor": "Run",
+    "Application.PrintValuesInArray.executor": "Run",
+    "Application.RangeBasics.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.SCPoolvsObjectArea.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.SimpleInterestCalculator.executor": "Run",
+    "Application.SlashCommand.executor": "Run",
+    "Application.StringBufferTest.executor": "Run",
+    "Application.StringBuilderTest.executor": "Run",
+    "Application.StringImmutable.executor": "Run",
+    "Application.SubjectMarks.executor": "Run",
+    "Application.SubjectMarks2.executor": "Run",
+    "Application.SumOfAllDigitsOfNumber.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.SwitchCondition.executor": "Run",
+    "Application.TemperatureCoverter.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TernaryWithThreeValues.executor": "Run",
+    "Application.TriangleType.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AKASH KULKARNI/IdeaProjects/Chinmay/Jan_7th_OOPS/Inheritance",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AKASH KULKARNI\IdeaProjects\Chinmay\Jan_7th_OOPS\Inheritance" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringImmutable">
-    <configuration name="CountVowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.CountVowelsAndConsonants" />
+  <component name="RunManager" selected="Application.Conseg1RunnerClass">
+    <configuration name="Conseg1RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_6th.Constructor.Conseg1RunnerClass" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="PATTERN" value="Jan_6th.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionWithReturnType" />
+    <configuration name="FunctionReturnTypeWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_30th.FunctionReturnTypeWithScanner" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
@@ -141,34 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternProblems.PP2" />
-      <module name="ChinmayKulkarni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternProblems.PP3" />
-      <module name="ChinmayKulkarni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_6th.StringImmutable" />
+    <configuration name="FunctionsOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_6th.FunctionsOfString" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
@@ -180,13 +175,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeWithoutSBDorSBF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.PalindromeWithoutSBDorSBF" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeMakesManPerfect.PrimeNumberCheck" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeMakesManPerfect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringImmutable" />
-        <item itemvalue="Application.FunctionWithReturnType" />
-        <item itemvalue="Application.CountVowelsAndConsonants" />
-        <item itemvalue="Application.PP3" />
-        <item itemvalue="Application.PP2" />
+        <item itemvalue="Application.Conseg1RunnerClass" />
+        <item itemvalue="Application.FunctionsOfString" />
+        <item itemvalue="Application.PalindromeWithoutSBDorSBF" />
+        <item itemvalue="Application.PrimeNumberCheck" />
+        <item itemvalue="Application.FunctionReturnTypeWithScanner" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +275,39 @@
       <option name="project" value="LOCAL" />
       <updated>1704382055262</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1705860459960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705860459961</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1705860516253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705860516253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1705860542720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705860542720</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1705860604498</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705860604498</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
