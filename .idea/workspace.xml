@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
-      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/ConsValueUpdating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_6th/Constructor/ExampleConstr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hirarachey/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hirarachey/Son1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hirarachey/Son2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hirarachey/Son3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hybrid/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hybrid/Derive1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Hybrid/Derive2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Multi_Level_Inheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Multi_Level_Inheritance/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Multi_Level_Inheritance/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Single_Inheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Inheritance/Single_Inheritance/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example1/ICICI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example1/Lab149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example3/Credentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example3/ProfileDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_6th/FunctionsOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_6th/FunctionsOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/Jan_6th/FunctionsOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/Jan_6th/FunctionsOfString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +84,7 @@
     "Application.InstanceOf.executor": "Run",
     "Application.Interesting.executor": "Run",
     "Application.Jan_7th_OOPS.Inheritance.Child.executor": "Run",
+    "Application.Lab149.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.MathFun.executor": "Run",
@@ -111,6 +101,7 @@
     "Application.PrintOddNumbers.executor": "Run",
     "Application.PrintStatement.executor": "Run",
     "Application.PrintValuesInArray.executor": "Run",
+    "Application.ProfileDetails.executor": "Run",
     "Application.RangeBasics.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.SCPoolvsObjectArea.executor": "Run",
@@ -132,6 +123,7 @@
     "Application.TemperatureCoverter.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.TernaryWithThreeValues.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TriangleType.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.WhileLoop.executor": "Run",
@@ -156,13 +148,13 @@
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Son3">
-    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Inheritance.Inheritance.Child" />
+  <component name="RunManager" selected="Application.ProfileDetails">
+    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Encapsulation.Example1.Lab149" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Inheritance.Inheritance.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Encapsulation.Example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,25 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jan_7th_OOPS.Single_Inheritance.Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Single_Inheritance.Child" />
+    <configuration name="ProfileDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Encapsulation.Example3.ProfileDetails" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Single_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Son1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Inheritance.Hirarachey.Son1" />
-      <module name="ChinmayKulkarni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Inheritance.Hirarachey.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Encapsulation.Example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,13 +201,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Encapsulation.Example2.Test" />
+      <module name="ChinmayKulkarni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_7th_OOPS.Encapsulation.Example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProfileDetails" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Lab149" />
         <item itemvalue="Application.Son3" />
         <item itemvalue="Application.Son2" />
-        <item itemvalue="Application.Son1" />
-        <item itemvalue="Application.Jan_7th_OOPS.Single_Inheritance.Child" />
-        <item itemvalue="Application.Child" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +336,71 @@
       <option name="project" value="LOCAL" />
       <updated>1706612900914</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638366141</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638366141</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638383943</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638383943</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638400188</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638400188</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638426843</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638426843</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638441983</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638441983</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638457685</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638457685</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638636339</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638636339</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706638655987</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638655987</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
