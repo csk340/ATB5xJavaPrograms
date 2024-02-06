@@ -5,13 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example1/ICICI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example1/Lab149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example3/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Encapsulation/Example3/ProfileDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Akash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Akshya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Chinmay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example2/PramodTheTutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/TC1_ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/TC2_FFBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/TC3_MEBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/Father1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/I1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/PB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/PramodC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/RC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Example1/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Example1/II1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverloading/RC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverloading/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example1/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example1/RC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example2/Hound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example2/RC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/BlocksTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Parent.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChinmayKulkarni/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +75,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Akash.executor": "Run",
+    "Application.Akshya.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Array1D2D.executor": "Run",
     "Application.Array1D2DSecond.executor": "Run",
     "Application.Array2.executor": "Run",
     "Application.ArrayValuesVsAddress.executor": "Run",
     "Application.Child.executor": "Run",
+    "Application.Chinmay.executor": "Run",
     "Application.CompoundAssignment.executor": "Run",
     "Application.Concatination.executor": "Run",
     "Application.Concatination2BODMAS.executor": "Run",
@@ -79,11 +108,18 @@
     "Application.FunctionsOfString.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
     "Application.HAvsSCP.executor": "Run",
+    "Application.II1.executor": "Run",
+    "Application.IV1.executor": "Run",
+    "Application.IV2.executor": "Run",
+    "Application.IV3.executor": "Run",
+    "Application.IV4.executor": "Run",
     "Application.IfLoop.executor": "Run",
     "Application.IncrementOperator.executor": "Run",
     "Application.InstanceOf.executor": "Run",
     "Application.Interesting.executor": "Run",
     "Application.Jan_7th_OOPS.Inheritance.Child.executor": "Run",
+    "Application.Jan_7th_OOPS.Polymorphism.MethodOverriding.Example2.RC.executor": "Run",
+    "Application.Jan_7th_OOPS.Polymorphism.MethodOverriding.RC.executor": "Run",
     "Application.Lab149.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
@@ -102,8 +138,10 @@
     "Application.PrintStatement.executor": "Run",
     "Application.PrintValuesInArray.executor": "Run",
     "Application.ProfileDetails.executor": "Run",
+    "Application.RC.executor": "Run",
     "Application.RangeBasics.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
+    "Application.RunnerClass.executor": "Run",
     "Application.SCPoolvsObjectArea.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "Application.SimpleInterestCalculator.executor": "Run",
@@ -114,12 +152,14 @@
     "Application.StringBufferTest.executor": "Run",
     "Application.StringBuilderTest.executor": "Run",
     "Application.StringImmutable.executor": "Run",
+    "Application.Student.executor": "Run",
     "Application.SubjectMarks.executor": "Run",
     "Application.SubjectMarks2.executor": "Run",
     "Application.SumOfAllDigitsOfNumber.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.SwitchCondition.executor": "Run",
+    "Application.TC1_ChromeBrowser.executor": "Run",
     "Application.TemperatureCoverter.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.TernaryWithThreeValues.executor": "Run",
@@ -145,16 +185,18 @@
       <recent name="Jan_7th_OOPS.Inheritance.Inheritance" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Jan_7th_OOPS.Polymorphism.MethodOverriding.Example1" />
+      <recent name="Jan_7th_OOPS.Abstraction.Example1" />
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProfileDetails">
-    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Encapsulation.Example1.Lab149" />
+  <component name="RunManager" selected="Application.II1">
+    <configuration name="II1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Interface.Example1.II1" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Encapsulation.Example1.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Interface.Example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfileDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Encapsulation.Example3.ProfileDetails" />
+    <configuration name="IV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Polymorphism.Test.IV1" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Encapsulation.Example3.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Polymorphism.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Son2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Inheritance.Hirarachey.Son2" />
+    <configuration name="IV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Polymorphism.Test.IV2" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Inheritance.Hirarachey.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Polymorphism.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Son3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Inheritance.Hirarachey.Son3" />
+    <configuration name="IV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Polymorphism.Test.IV3" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Inheritance.Hirarachey.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Polymorphism.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Encapsulation.Example2.Test" />
+    <configuration name="IV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Polymorphism.Test.IV4" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Encapsulation.Example2.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Polymorphism.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProfileDetails" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Lab149" />
-        <item itemvalue="Application.Son3" />
-        <item itemvalue="Application.Son2" />
+        <item itemvalue="Application.II1" />
+        <item itemvalue="Application.IV4" />
+        <item itemvalue="Application.IV3" />
+        <item itemvalue="Application.IV2" />
+        <item itemvalue="Application.IV1" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706638655987</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1706788588083</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1706788588083</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
