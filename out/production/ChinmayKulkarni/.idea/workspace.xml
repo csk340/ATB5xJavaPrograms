@@ -5,35 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e744a6d-78f9-4ad1-9f87-5afb8a767a13" name="Changes" comment="Commit and push is done">
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Akash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Akshya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Chinmay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example1/RunnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example2/PramodTheTutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/TC1_ChromeBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/TC2_FFBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Abstraction/Example3/TC3_MEBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Example1/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Example1/II1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverloading/RC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverloading/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example1/Middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example1/RC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example2/Hound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/MethodOverriding/Example2/RC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/BlocksTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Polymorphism/Test/IV4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/Father1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/Father1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/I1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/I1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/PB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/PB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/PramodC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/PramodC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/RC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_7th_OOPS/Interface/Exampl2/RC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,108 +45,110 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Akash.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Akshya.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1D2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1D2DSecond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayValuesVsAddress.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chinmay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompoundAssignment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatination2BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conseg1RunnerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContinueKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountVowelsAndConsonants.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DConsRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoConstructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualVsEquals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleConstr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopBasic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionReturnType2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionReturnTypeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionReturnTypeWithScanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionWithReturnType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionsOfString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HAvsSCP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IV1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IV2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IV3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IV4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncrementOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interesting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Jan_7th_OOPS.Inheritance.Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Jan_7th_OOPS.Polymorphism.MethodOverriding.Example2.RC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Jan_7th_OOPS.Polymorphism.MethodOverriding.RC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab149.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathFun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathWithDifferentDatatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Null.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PInstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PP2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PP3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeWithoutSBDorSBF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternProblems.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrimeNumberCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintValuesInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProfileDetails.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RangeBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SCPoolvsObjectArea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInterestCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SlashCommand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Son1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Son2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Son3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBufferTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilderTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringImmutable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubjectMarks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubjectMarks2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfAllDigitsOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TC1_ChromeBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemperatureCoverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryWithThreeValues.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AKASH KULKARNI/IdeaProjects/Chinmay/Jan_7th_OOPS/Inheritance&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Akash.executor": "Run",
+    "Application.Akshya.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.Array1D2D.executor": "Run",
+    "Application.Array1D2DSecond.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.ArrayValuesVsAddress.executor": "Run",
+    "Application.Child.executor": "Run",
+    "Application.Chinmay.executor": "Run",
+    "Application.CompoundAssignment.executor": "Run",
+    "Application.Concatination.executor": "Run",
+    "Application.Concatination2BODMAS.executor": "Run",
+    "Application.Conseg1RunnerClass.executor": "Run",
+    "Application.ContinueKeyword.executor": "Run",
+    "Application.CountVowelsAndConsonants.executor": "Run",
+    "Application.DConsRunner.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.DemoConstructor.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.EqualVsEquals.executor": "Run",
+    "Application.ExampleConstr.executor": "Run",
+    "Application.FactorialProgram.executor": "Run",
+    "Application.Final.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.ForLoopBasic.executor": "Run",
+    "Application.ForLoopBasic2.executor": "Run",
+    "Application.FunctionReturnType2.executor": "Run",
+    "Application.FunctionReturnTypeString.executor": "Run",
+    "Application.FunctionReturnTypeWithScanner.executor": "Run",
+    "Application.FunctionWithReturnType.executor": "Run",
+    "Application.FunctionsOfString.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.HAvsSCP.executor": "Run",
+    "Application.I1.executor": "Run",
+    "Application.II1.executor": "Run",
+    "Application.IV1.executor": "Run",
+    "Application.IV2.executor": "Run",
+    "Application.IV3.executor": "Run",
+    "Application.IV4.executor": "Run",
+    "Application.IfLoop.executor": "Run",
+    "Application.IncrementOperator.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
+    "Application.Interesting.executor": "Run",
+    "Application.Jan_7th_OOPS.Inheritance.Child.executor": "Run",
+    "Application.Jan_7th_OOPS.Polymorphism.MethodOverriding.Example2.RC.executor": "Run",
+    "Application.Jan_7th_OOPS.Polymorphism.MethodOverriding.RC.executor": "Run",
+    "Application.Lab149.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.MathFun.executor": "Run",
+    "Application.MathFunction.executor": "Run",
+    "Application.MathWithDifferentDatatype.executor": "Run",
+    "Application.Null.executor": "Run",
+    "Application.PInstanceOf.executor": "Run",
+    "Application.PP2.executor": "Run",
+    "Application.PP3.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeWithoutSBDorSBF.executor": "Run",
+    "Application.PatternProblems.executor": "Debug",
+    "Application.PrimeNumberCheck.executor": "Run",
+    "Application.PrintOddNumbers.executor": "Run",
+    "Application.PrintStatement.executor": "Run",
+    "Application.PrintValuesInArray.executor": "Run",
+    "Application.ProfileDetails.executor": "Run",
+    "Application.RC.executor": "Run",
+    "Application.RangeBasics.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.RunnerClass.executor": "Run",
+    "Application.SCPoolvsObjectArea.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.SimpleInterestCalculator.executor": "Run",
+    "Application.SlashCommand.executor": "Run",
+    "Application.Son1.executor": "Run",
+    "Application.Son2.executor": "Run",
+    "Application.Son3.executor": "Run",
+    "Application.StringBufferTest.executor": "Run",
+    "Application.StringBuilderTest.executor": "Run",
+    "Application.StringImmutable.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SubjectMarks.executor": "Run",
+    "Application.SubjectMarks2.executor": "Run",
+    "Application.SumOfAllDigitsOfNumber.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.SwitchCondition.executor": "Run",
+    "Application.TC1_ChromeBrowser.executor": "Run",
+    "Application.TemperatureCoverter.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TernaryWithThreeValues.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TriangleType.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AKASH KULKARNI/IdeaProjects/Chinmay/Jan_7th_OOPS/Inheritance",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AKASH KULKARNI\IdeaProjects\Chinmay\Jan_7th_OOPS\Inheritance" />
@@ -184,13 +163,13 @@
       <recent name="allAboutJavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.II1">
-    <configuration name="II1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Interface.Example1.II1" />
+  <component name="RunManager" selected="Application.I1">
+    <configuration name="I1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Interface.Exampl2.I1" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Interface.Example1.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Interface.Exampl2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Polymorphism.Test.IV1" />
+    <configuration name="II1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_7th_OOPS.Interface.Example1.II1" />
       <module name="ChinmayKulkarni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_7th_OOPS.Polymorphism.Test.*" />
+          <option name="PATTERN" value="Jan_7th_OOPS.Interface.Example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I1" />
         <item itemvalue="Application.II1" />
         <item itemvalue="Application.IV4" />
         <item itemvalue="Application.IV3" />
         <item itemvalue="Application.IV2" />
-        <item itemvalue="Application.IV1" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706788588083</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit and push is done">
+      <option name="closed" value="true" />
+      <created>1707242544051</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1707242544051</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
